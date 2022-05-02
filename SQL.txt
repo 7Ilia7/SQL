@@ -1,0 +1,7 @@
+SHOW DATABASES - отображает информацию, содержащуюся в базе данных и ее таблицах.
+SHOW TABLES - используеться для отображения всех таблиц в текущей БД.
+SHOW COLUMS - отображает столбцы в нашей таблице *customers* 
+	SHOW COLUMNS FROM CUSTOMERS
+SELECT - Используеться для выбора информации из базы данных.
+	SELECT column_list
+	FROM table_name 
